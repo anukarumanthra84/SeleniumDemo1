@@ -19,6 +19,7 @@ import java.io.File;
         @SneakyThrows
         public static void main(String[] args) {
             System.out.println("New Feature Added");
+            System.out.println("Today is Oct 24th 2021");
             System.out.println(new Student("Anu", 1));
             File f = new File("abc.txt");
             // FileInputStream fis=new FileInputStream(f);
